@@ -20,6 +20,3 @@ TOKEN=
 ```
 python main.py
 ```
-
-## Tips
-- 可查看他人年度报告，配置 USER_NAME 即可
